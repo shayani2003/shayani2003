@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Shayani Bhowmik</h1>
+<h1 align="center">Hi 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+<div align = 'center'>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Shayani%20Bhowmik&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
+ 
+ https://readme-typing-svg.herokuapp.com?color=ff0073&center=true&lines=Coding,;Sleeping&center=true&width=380&height=45
+ 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
 
 
 - 📫 How to reach me **shayanibhowmik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 </p>
 
