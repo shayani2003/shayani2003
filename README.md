@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayani Bhowmik</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
 
 
 - 📫 How to reach me **shayanibhowmik2001@gmail.com**
