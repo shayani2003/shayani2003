@@ -5,7 +5,6 @@
 <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=e3b778&fontStyle=samakaran&text=Shayani%20Bhowmik&height=150&fontSize=80&desc=Haldia,%20IN&descAlignY=75&descAlign=82.4"/></div>
  
- https://readme-typing-svg.herokuapp.com?color=ff0073&center=true&lines=Coding;Sleeping&center=true&width=380&height=45
  
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
 
