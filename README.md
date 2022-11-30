@@ -9,8 +9,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
 
 
-- 📫 How to reach me **shayanibhowmik2001@gmail.com**![photo_2022-11-30_21-21-24](https://user-images.githubusercontent.com/113325567/204849017-51e796bf-ed53-42c4-8044-29bb3ad66a4b.jpg)
-
+- 📫 How to reach me **shayanibhowmik2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <br>
