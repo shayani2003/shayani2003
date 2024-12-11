@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **shayanibhowmik2001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>-->
+<a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="150px" height="150px" /></a>
+
 <br>
 <p align="left">
 </p>
