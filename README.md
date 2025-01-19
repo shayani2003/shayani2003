@@ -9,7 +9,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shayani2003&label=Profile%20views&color=0e75b6&style=flat" alt="shayani2003" /> </p>
 
 
-- 📫 How to reach me **shayanibhowmik2001@gmail.com**
+- 📫 How to reach me **shayanibhowmikXXXX@gmail.com**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="250px" height="250px" /></a>
