@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile+👋!)](https://git.io/typing-svg)
 
 <div align = 'right'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Shayani%20Bhowmik&height=150&fontSize=80&desc=CSE,%202k25&descAlignY=75&descAlign=82.4"/></div>
