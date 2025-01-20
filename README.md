@@ -11,11 +11,20 @@
 
 - 📫 How to reach me **shayanibhowmikXXXX@gmail.com**
 
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
 <!--<h3 align="left">Connect with me:</h3>-->
 <a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="250px" height="250px" /></a>
 <a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="img/Postman White badge.png" width="250px" height="250px" /></a> &nbsp;
 <a href="https://www.credly.com/badges/9e16502a-2381-4c7d-ade7-cf524fb1d6e2/public_url"><img src="https://github.com/user-attachments/assets/99042298-4cca-44ae-90a0-efa1a28d50d8" width="250px" height="250px" /></a>
+</div>
+</br>
 
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+<a href="https://www.credly.com/badges/89d62361-394d-4da2-ac1b-8f14bc9feb38/public_url"><img src="https://github.com/user-attachments/assets/572d8c68-cf00-4e86-a676-e83141b113ca" width="150px" height="150px" /></a>&nbsp;
+<a href="https://www.credly.com/badges/a2a78c8e-1816-4f6c-bdcb-ba4f267e9909/public_url"><img src="https://github.com/user-attachments/assets/3a5fc32a-11af-4e33-832b-17f1c358bb4a" width="150px" height="150px" /></a>&nbsp;
+<a href="https://www.credly.com/badges/a24cd0ed-973e-42f0-8c8b-e320884bdb9d/public_url"><img src="https://github.com/user-attachments/assets/09084435-f2ab-44d4-b46d-ba1ebda86e86" width="150px" height="150px" /></a>&nbsp;
+<a href="https://www.credly.com/badges/35277550-a500-4646-bad2-b79d9dc50a85/public_url"><img src="https://github.com/user-attachments/assets/ae19b5c6-7e33-4979-9afd-2fe54a0d2e6d" width="150px" height="150px" /></a>
+</div>
 
 <br>
 <p align="left">
