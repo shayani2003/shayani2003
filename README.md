@@ -23,7 +23,9 @@
 <a href="https://www.credly.com/badges/a24cd0ed-973e-42f0-8c8b-e320884bdb9d/public_url"><img src="https://github.com/user-attachments/assets/09084435-f2ab-44d4-b46d-ba1ebda86e86" width="150px" height="150px" /></a>&nbsp;
 <a href="https://www.credly.com/badges/35277550-a500-4646-bad2-b79d9dc50a85/public_url"><img src="https://github.com/user-attachments/assets/ae19b5c6-7e33-4979-9afd-2fe54a0d2e6d" width="150px" height="150px" /></a>
 </div>
+
 <br>
+</br>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <a href="https://www.salesforce.com/trailblazer/shayani2003"><img src="https://github.com/user-attachments/assets/cd3d451a-eabb-44d4-86cc-bb3d022380c6" width="200px" height="200px" />
 
