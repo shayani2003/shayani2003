@@ -24,11 +24,12 @@
 <a href="https://www.credly.com/badges/35277550-a500-4646-bad2-b79d9dc50a85/public_url"><img src="https://github.com/user-attachments/assets/ae19b5c6-7e33-4979-9afd-2fe54a0d2e6d" width="150px" height="150px" /></a>
 </div>
 
+
 <br>
 </br>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <a href="https://www.salesforce.com/trailblazer/shayani2003"><img src="https://github.com/user-attachments/assets/cd3d451a-eabb-44d4-86cc-bb3d022380c6" width="200px" height="200px" />
-
+<a href="https://www.credly.com/badges/a105f828-1e23-4394-bdc2-3bfe9e792bd7/public_url"><img src="https://github.com/user-attachments/assets/07d6c43d-0d81-4dc2-8371-98211c229d76" width="200px" height="200px" />
 <p align="left">
 </p>
 
