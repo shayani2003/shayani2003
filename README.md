@@ -60,10 +60,23 @@
 
 ---
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### <p align="left"> [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,c)](https://skillicons.dev) </p>
 
 ---
+## <p align="left"> WebDev i know  </p>
 
+#### <p align="left"> Front-end
+### <p align="left"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,react)](https://skillicons.dev) . . .
+
+#### <p align="left"> Backend
+### <p align="left"> [![My Skills](https://skillicons.dev/icons?i=js,jquery,nextjs,nodejs,npm,nginx,firebase,postman)](https://skillicons.dev)<a href= https://www.linux.org/></a>
+
+#### <p align="left"> DataBase
+### <p align="left"> [![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,aws,postgres,redis)](https://skillicons.dev)<a href= https://www.linux.org/> <img width ='40px' src ='https://img.icons8.com/ios-filled/50/000000/sql.png'> </a> . . .  
+
+
+---
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
