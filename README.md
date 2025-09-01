@@ -11,9 +11,11 @@
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <!--<h3 align="left">Connect with me:</h3>-->
-<a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="250px" height="250px" /></a>
-<a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="img/Postman White badge.png" width="250px" height="250px" /></a> &nbsp;
-<a href="https://www.credly.com/badges/9e16502a-2381-4c7d-ade7-cf524fb1d6e2/public_url"><img src="https://github.com/user-attachments/assets/99042298-4cca-44ae-90a0-efa1a28d50d8" width="250px" height="250px" /></a>
+<a href="https://www.credly.com/badges/7b75cc57-39f9-42a8-9555-6addb86bc244/public_url"><img src="img/github-foundations.png" width="200px" height="200px" /></a>
+<a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="img/Postman White badge.png" width="200px" height="200px" /></a> &nbsp;
+<a href="https://www.credly.com/badges/9e16502a-2381-4c7d-ade7-cf524fb1d6e2/public_url"><img src="https://github.com/user-attachments/assets/99042298-4cca-44ae-90a0-efa1a28d50d8" width="200px" height="200px" />
+<a href="https://www.credly.com/badges/54ff6bda-9be0-4d91-8dfb-e175de014a05/public_url"><img src="img/image.png" width="200px" height="200px" /></a>
+</a>
 </div>
 </br>
 
@@ -29,12 +31,31 @@
 </br>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <a href="https://www.salesforce.com/trailblazer/shayani2003"><img src="https://github.com/user-attachments/assets/cd3d451a-eabb-44d4-86cc-bb3d022380c6" width="200px" height="200px" /></a>
-<a href="https://www.credly.com/badges/a105f828-1e23-4394-bdc2-3bfe9e792bd7/public_url"><img src="https://github.com/user-attachments/assets/07d6c43d-0d81-4dc2-8371-98211c229d76" width="220px" height="220px" /></a>
+<a href="https://www.credly.com/badges/a105f828-1e23-4394-bdc2-3bfe9e792bd7/public_url"><img src="https://github.com/user-attachments/assets/07d6c43d-0d81-4dc2-8371-98211c229d76" width="220px" height="220px" />
+
+</a>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+---
+<details>
+  <summary style="opacity: 0.85;"><b>more Badges 🥇</b></summary><br>
+  <div style="display: flex; align-items: center; gap: 10px;" align="center"> &nbsp; &nbsp;
+   <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  
+  </div>
+</details>
+
+<br>
+
+
+
+
+
+
 
 ---
 <details>	
