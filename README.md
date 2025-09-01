@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/posts/shayani2003_postman-apis-softwaredevelopment-activity-7264993397545869313-6bck?utm_source=social_share_sheet&utm_medium=member_desktop_web"><img src="img/Postman White badge.png" width="200px" height="200px" /></a> &nbsp;
 <a href="https://www.credly.com/badges/9e16502a-2381-4c7d-ade7-cf524fb1d6e2/public_url"><img src="https://github.com/user-attachments/assets/99042298-4cca-44ae-90a0-efa1a28d50d8" width="200px" height="200px" />
 <a href="https://www.credly.com/badges/54ff6bda-9be0-4d91-8dfb-e175de014a05/public_url"><img src="img/image.png" width="200px" height="200px" /></a>
+
 </a>
 </div>
 </br>
@@ -32,7 +33,7 @@
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <a href="https://www.salesforce.com/trailblazer/shayani2003"><img src="https://github.com/user-attachments/assets/cd3d451a-eabb-44d4-86cc-bb3d022380c6" width="200px" height="200px" /></a>
 <a href="https://www.credly.com/badges/a105f828-1e23-4394-bdc2-3bfe9e792bd7/public_url"><img src="https://github.com/user-attachments/assets/07d6c43d-0d81-4dc2-8371-98211c229d76" width="220px" height="220px" />
-
+<a href="https://www.credly.com/earner/earned/badge/30a79a84-76cf-4b67-b0ea-5e81ecf5c22c/public_url"><img src="img/image_4.png" width="200px" height="200px" /></a>
 </a>
 <p align="left">
 </p>
@@ -44,7 +45,12 @@
 <details>
   <summary style="opacity: 0.85;"><b>more Badges 🥇</b></summary><br>
   <div style="display: flex; align-items: center; gap: 10px;" align="center"> &nbsp; &nbsp;
-   <a href="https://www.credly.com/go/6C69ZOKh"><img src="img/Badge/github-foundations.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/fde83047-75d4-400f-bf8d-d0fe8e84800e"><img src="img/image_1.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/c3c5a8eb-da6b-4df2-a37d-682dff35187e"><img src="img/image_2.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/02a2b3d9-4006-4b64-9844-34568bb4570d"><img src="img/image_3.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/2d6ff016-389b-4799-be6e-59fffeb537c3"><img src="img/image_5.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/4bfb3be7-b34f-4e29-836a-0b04b5bb0fdc"><img src="img/image_6.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/a624e30d-efc9-4601-abd2-1ef4a7058340"><img src="img/image_7.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
   
   </div>
 </details>
