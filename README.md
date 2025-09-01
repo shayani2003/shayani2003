@@ -28,7 +28,6 @@
 </div>
 
 
-<br>
 </br>
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
 <a href="https://www.salesforce.com/trailblazer/shayani2003"><img src="https://github.com/user-attachments/assets/cd3d451a-eabb-44d4-86cc-bb3d022380c6" width="200px" height="200px" /></a>
@@ -37,11 +36,8 @@
 </a>
 <p align="left">
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
----
 <details>
   <summary style="opacity: 0.85;"><b>more Badges 🥇</b></summary><br>
   <div style="display: flex; align-items: center; gap: 10px;" align="center"> &nbsp; &nbsp;
@@ -51,6 +47,10 @@
   <a href="https://www.credly.com/earner/earned/badge/2d6ff016-389b-4799-be6e-59fffeb537c3"><img src="img/image_5.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
   <a href="https://www.credly.com/earner/earned/badge/4bfb3be7-b34f-4e29-836a-0b04b5bb0fdc"><img src="img/image_6.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
   <a href="https://www.credly.com/earner/earned/badge/a624e30d-efc9-4601-abd2-1ef4a7058340"><img src="img/image_7.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/46713bc2-bd6a-44d0-be0a-00cd63f17cfc"><img src="img/image_8.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/2749377d-6f00-4f54-9f28-21e930643f48"><img src="img/image_9.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/2ee5b7a3-8c57-4d77-84ec-a753ae89233f"><img src="img/image_10.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/2f16f031-e3f3-46fd-bdb1-b5a4e61f842d"><img src="img/image_11.png" width="180px" height="180px" /></a> &nbsp; &nbsp;
   
   </div>
 </details>
@@ -58,12 +58,13 @@
 <br>
 
 
-
-
-
-
+---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
+
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
